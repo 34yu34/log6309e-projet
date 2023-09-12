@@ -6,3 +6,4 @@
 1. ["DevOps" is more about Customer Feedback and Quick Learning than Culture/Process/Tools.](https://www.linkedin.com/pulse/devops-more-customer-feedback-quick-learning-than-kishore-jalleda)
 1. [How to infuse customer feedback into your DevOps](https://techbeacon.com/app-dev-testing/how-infuse-customer-feedback-your-devops)
 1. [DevOps: A Historical Review and Future Works](https://ieeexplore.ieee.org/abstract/document/9397235)
+1. [Customer feedback and data collection techniques in software R&D: a literature review](https://www.diva-portal.org/smash/get/diva2:1409466/FULLTEXT01.pdf)
