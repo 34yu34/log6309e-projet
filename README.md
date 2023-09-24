@@ -8,6 +8,7 @@
 1. [DevOps: A Historical Review and Future Works](https://ieeexplore.ieee.org/abstract/document/9397235)
 1. [Customer feedback and data collection techniques in software R&D: a literature review](https://www.diva-portal.org/smash/get/diva2:1409466/FULLTEXT01.pdf)
 1. [Towards continuous customer validation: A conceptual model for combining qualitative customer feedback with quantitative customer observation](https://www.researchgate.net/profile/Helena-Olsson/publication/283125576_Towards_Continuous_Customer_Validation_A_Conceptual_Model_for_Combining_Qualitative_Customer_Feedback_with_Quantitative_Customer_Observation/links/563c8a3808ae34e98c4a8347/Towards-Continuous-Customer-Validation-A-Conceptual-Model-for-Combining-Qualitative-Customer-Feedback-with-Quantitative-Customer-Observation.pdf)
+1. [How to Implement Hypothesis-Driven Development](https://www.thoughtworks.com/insights/articles/how-implement-hypothesis-driven-development)
 
 # project proposal presentation link
 
