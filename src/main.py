@@ -90,8 +90,7 @@ def clone_and_analyze_repositories(repositories, keyword):
 
     return result
 
-
-def main():
+def find_write_repo():
     api_url = 'https://api.github.com/search/repositories'
     keyword = 'devops'
     min_lines_of_code = 10000  # You can adjust this threshold as needed
@@ -117,6 +116,7 @@ def main():
 
     write_to_csv(repositories, csv_filename)
     print(f"\nRepository information has been written to '{csv_filename}'.")
+
 
 if __name__ == "__main__":
     main()
