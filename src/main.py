@@ -5,6 +5,25 @@ import shutil
 import git
 from radon.visitors import ClassVisitor
 
+# CONSTANTS
+
+api_url = 'https://api.github.com/search/repositories'
+keyword = 'devops'
+techniques = []
+metrics = []
+min_lines_of_code = 10000  # You can adjust this threshold as needed
+csv_filename = 'repositories.csv'
+
+# REPO KEYWORDS
+#    for repo in repositories:
+        # print(f"\nName: {repo['name']}")
+        # print(f"Description: {repo['description']}")
+        # print(f"URL: {repo['html_url']}")
+        # print(f"Stars: {repo['stargazers_count']}")
+        # print(f"Forks: {repo['forks_count']}")
+        # print(f"Lines of Code: {repo['size']}")
+
+
 def search_github_repositories(api_url, query_params):
     response = requests.get(api_url, params=query_params)
 
@@ -45,13 +64,7 @@ def read_csv(csv_filename):
 
     return data
 
-#    for repo in repositories:
-        # print(f"\nName: {repo['name']}")
-        # print(f"Description: {repo['description']}")
-        # print(f"URL: {repo['html_url']}")
-        # print(f"Stars: {repo['stargazers_count']}")
-        # print(f"Forks: {repo['forks_count']}")
-        # print(f"Lines of Code: {repo['size']}")
+
 
 def clone_and_analyze_repositories(repositories, keyword):
     result = []
@@ -119,4 +132,4 @@ def find_write_repo():
 
 
 if __name__ == "__main__":
-    main()
+    ()
