@@ -6,6 +6,10 @@ different features. The evaluated features
 are instrumented to measure their success/performance.
 
 ## Offer the user to give feedback
+- Element in the UI that offers to give feedback
+  - Like or dislike?
+  - What could be improved? 
+  - "Do you find this feature useful?"
 
 ## Incidents Reports
 **Only measures incidents!**
