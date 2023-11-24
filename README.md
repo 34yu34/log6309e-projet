@@ -11,6 +11,6 @@
 1. [How to Implement Hypothesis-Driven Development](https://www.thoughtworks.com/insights/articles/how-implement-hypothesis-driven-development)
 1. [Capabilities and metrics in DevOps: A design science study](https://www.sciencedirect.com/science/article/pii/S0378720623000575)
 
-# project proposal presentation link
-
-the presentation can be found at this [link](https://docs.google.com/presentation/d/1j6ib0TgnFmbQZNKlcp--qwceIizrEc8cR_xygqf1bbc/edit?usp=sharing)
+# Presentation Links
+- [Project Proposal Presentation](https://docs.google.com/presentation/d/1j6ib0TgnFmbQZNKlcp--qwceIizrEc8cR_xygqf1bbc/edit?usp=sharing)
+- [Project Presentation](https://docs.google.com/presentation/d/1MEYA4WAowJSWzYMWL_gLotusyJSaasBDi97rBKWI0Tc/edit?usp=sharing)
