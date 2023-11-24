@@ -487,3 +487,5 @@ pyrightconfig.json
 .DS_STORE
 **/.DS_STORE
 proposal/.DS_Store
+
+.idea/
