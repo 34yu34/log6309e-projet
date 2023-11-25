@@ -10,6 +10,8 @@
 1. [Towards continuous customer validation: A conceptual model for combining qualitative customer feedback with quantitative customer observation](https://www.researchgate.net/profile/Helena-Olsson/publication/283125576_Towards_Continuous_Customer_Validation_A_Conceptual_Model_for_Combining_Qualitative_Customer_Feedback_with_Quantitative_Customer_Observation/links/563c8a3808ae34e98c4a8347/Towards-Continuous-Customer-Validation-A-Conceptual-Model-for-Combining-Qualitative-Customer-Feedback-with-Quantitative-Customer-Observation.pdf)
 1. [How to Implement Hypothesis-Driven Development](https://www.thoughtworks.com/insights/articles/how-implement-hypothesis-driven-development)
 1. [Capabilities and metrics in DevOps: A design science study](https://www.sciencedirect.com/science/article/pii/S0378720623000575)
+2. [Customer Satisfaction Research Management: A Comprehensive Guide](https://books.google.ca/books?hl=en&lr=&id=MOuiEAAAQBAJ&oi=fnd&pg=PP1&dq=customer+satisfaction+metrics&ots=0HhTgDuURx&sig=eMgphoTLo0EQwka66zWPYtf0Tkw#v=onepage&q=customer%20satisfaction%20metrics&f=false)
+3. [The value of different customer satisfaction and loyalty metrics in predicting customer retention, recommendation, and share-of-wallet](https://www.emerald.com/insight/content/doi/10.1108/09604520710760526/full/pdf?title=the-value-of-different-customer-satisfaction-and-loyalty-metrics-in-predicting-customer-retention-recommendation-and-shareofwallet)
 
 # Presentation Links
 - [Project Proposal Presentation](https://docs.google.com/presentation/d/1j6ib0TgnFmbQZNKlcp--qwceIizrEc8cR_xygqf1bbc/edit?usp=sharing)
