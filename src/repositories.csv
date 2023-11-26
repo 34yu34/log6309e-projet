@@ -1,31 +1,26 @@
-Name,Description,URL,Stars,Forks,Lines of Code
-netdata,"Monitor your servers, containers, and applications, in high-resolution and in real-time!",https://github.com/netdata/netdata,65892,5727,167837
-gitea,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",https://github.com/go-gitea/gitea,39195,4982,278925
-kong,🦍 The Cloud-Native API Gateway ,https://github.com/Kong/kong,36244,4655,32128
-sentry,Developer-first error tracking and performance monitoring,https://github.com/getsentry/sentry,35555,4015,441368
-dokku,A docker-powered PaaS that helps you build and manage the lifecycle of applications,https://github.com/dokku/dokku,25162,1838,14020
-90DaysOfDevOps,"I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including weekends, to gaining a foundational understanding of the various aspects of DevOps. This will be a 90-day intensive study period. 2022 & 2023 inc.",https://github.com/MichaelCade/90DaysOfDevOps,24232,5873,303372
-docker_practice,"Learn and understand Docker&Container technologies, with real DevOps practice!",https://github.com/yeasy/docker_practice,23100,5614,11875
-TDengine,"TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.",https://github.com/taosdata/TDengine,22227,4740,341789
-lens,Lens - The way the world runs Kubernetes,https://github.com/lensapp/lens,21753,1389,699426
-jenkins,Jenkins automation server,https://github.com/jenkinsci/jenkins,21630,8396,155056
-goreplay,"GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.",https://github.com/buger/goreplay,17932,1848,18128
-watchtower,A process for automating Docker container base image updates. ,https://github.com/containrrr/watchtower,15297,769,17202
-wtf,The personal information dashboard for your terminal,https://github.com/wtfutil/wtf,15143,803,50102
-argo-cd,Declarative Continuous Deployment for Kubernetes,https://github.com/argoproj/argo-cd,14635,4379,87770
-sops,Simple and flexible tool for managing secrets,https://github.com/getsops/sops,14144,799,144679
-kubesphere,"The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️",https://github.com/kubesphere/kubesphere,13620,2032,70603
-apisix,The Cloud-Native API Gateway,https://github.com/apache/apisix,12878,2331,36692
-onedev,Self-hosted Git Server with CI/CD and Kanban,https://github.com/theonedev/onedev,12034,804,208192
-walle-web,walle - 瓦力 Devops开源项目代码部署平台,https://github.com/meolu/walle-web,11706,2758,26844
-infracost,Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!,https://github.com/infracost/infracost,9708,496,10429
-kubeshark,"The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes",https://github.com/kubeshark/kubeshark,9697,400,26965
-unleash,Open-source feature management solution built for developers.,https://github.com/Unleash/unleash,9518,601,170698
-dagger,Application Delivery as Code that Runs Anywhere,https://github.com/dagger/dagger,9215,488,47049
-kubescape,"Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.",https://github.com/kubescape/kubescape,9122,773,110303
-task,A task runner / simpler Make alternative written in Go,https://github.com/go-task/task,8892,542,15065
-pyroscope,Continuous Profiling Platform. Debug performance issues down to a single line of code,https://github.com/grafana/pyroscope,8733,502,99297
-origin,Conformance test suite for OpenShift,https://github.com/openshift/origin,8384,4795,1243841
-openebs,"Leading Open Source Container Attached Storage, built using Cloud Native Architecture, simplifies running Stateful Applications on Kubernetes.",https://github.com/openebs/openebs,8383,956,23267
-miller,"Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON",https://github.com/johnkerl/miller,8228,197,209262
-Yearning,🐳 A most popular sql audit platform for mysql ,https://github.com/cookieY/Yearning,7977,1952,435479
+name,html_url,lines_of_code
+devops-exercises,https://github.com/bregman-arie/devops-exercises,4600
+sentry,https://github.com/getsentry/sentry,445060
+cli,https://github.com/httpie/cli,6906
+walle-web,https://github.com/meolu/walle-web,26844
+xonsh,https://github.com/xonsh/xonsh,27931
+healthchecks,https://github.com/healthchecks/healthchecks,22064
+sh,https://github.com/amoffat/sh,1958
+checkov,https://github.com/bridgecrewio/checkov,82874
+st2,https://github.com/StackStorm/st2,40354
+clearml,https://github.com/allegroai/clearml,43237
+xxh,https://github.com/xxh/xxh,2314
+faraday,https://github.com/infobyte/faraday,161244
+opendevops,https://github.com/opendevops-cn/opendevops,30159
+adminset,https://github.com/guohongze/adminset,30138
+errbot,https://github.com/errbotio/errbot,6263
+bisheng,https://github.com/dataelement/bisheng,3985
+pytest-testinfra,https://github.com/pytest-dev/pytest-testinfra,1064
+robusta,https://github.com/robusta-dev/robusta,46066
+mitogen,https://github.com/mitogen-hq/mitogen,13394
+developer-roadmap,https://github.com/DasyDong/developer-roadmap,29388
+mist-ce,https://github.com/mistio/mist-ce,67157
+kapitan,https://github.com/kapicorp/kapitan,14891
+cicd-goat,https://github.com/cider-security-research/cicd-goat,70343
+nixops,https://github.com/NixOS/nixops,7139
+webterminal,https://github.com/jimmy201602/webterminal,775948
