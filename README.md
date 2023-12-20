@@ -12,6 +12,7 @@
 1. [Capabilities and metrics in DevOps: A design science study](https://www.sciencedirect.com/science/article/pii/S0378720623000575)
 2. [Customer Satisfaction Research Management: A Comprehensive Guide](https://books.google.ca/books?hl=en&lr=&id=MOuiEAAAQBAJ&oi=fnd&pg=PP1&dq=customer+satisfaction+metrics&ots=0HhTgDuURx&sig=eMgphoTLo0EQwka66zWPYtf0Tkw#v=onepage&q=customer%20satisfaction%20metrics&f=false)
 3. [The value of different customer satisfaction and loyalty metrics in predicting customer retention, recommendation, and share-of-wallet](https://www.emerald.com/insight/content/doi/10.1108/09604520710760526/full/pdf?title=the-value-of-different-customer-satisfaction-and-loyalty-metrics-in-predicting-customer-retention-recommendation-and-shareofwallet)
+4. [Understanding the link between customer feedback metrics and firm performance](https://www.sciencedirect.com/science/article/pii/S0969698923000486)
 
 # Presentation Links
 - [Project Proposal Presentation](https://docs.google.com/presentation/d/1j6ib0TgnFmbQZNKlcp--qwceIizrEc8cR_xygqf1bbc/edit?usp=sharing)
